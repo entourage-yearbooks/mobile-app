@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87F4442C-06B2-4C57-8727-9222457DC0A4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EntourageDataAccess</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5127D6A1-4E01-4457-A7A1-DD4E3A1AE2B0</key>
+		<string>https://github.com/entourage-yearbooks/mobile-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EntourageDataAccess.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5127D6A1-4E01-4457-A7A1-DD4E3A1AE2B0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/entourage-yearbooks/mobile-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5127D6A1-4E01-4457-A7A1-DD4E3A1AE2B0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5127D6A1-4E01-4457-A7A1-DD4E3A1AE2B0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EntourageDataAccess</string>
+		</dict>
+	</array>
+</dict>
+</plist>
